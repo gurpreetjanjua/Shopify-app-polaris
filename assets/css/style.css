@@ -1,0 +1,15 @@
+.login-card {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    max-width: calc(410px + 4rem);
+    min-height: calc(100vh - 5rem);
+    margin: 0 auto;
+    padding: 0 2rem;
+    padding-top: 20vh;
+    padding-bottom: 6rem;
+}
+
+.Polaris-ChoiceList__Choices li {
+    width: 50%;
+    float: left;
+}
